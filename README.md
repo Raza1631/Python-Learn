@@ -8,17 +8,20 @@ Variables and Data Types:
   </ul>
   
 Control Flow and Loops:
+<ul>
   <li>
     Familiarize yourself with if-else statements for conditional execution.
   </li>
   <li>
     Learn about for and while loops for iterative execution.
   </li>
-  
+</ul>
 Functions:
+<ul>
   <li>
     Understand how to define and use functions in Python.
   </li>
   <li>
     Explore function parameters, return values, and scope.
   </li>
+</ul>
